@@ -1,6 +1,6 @@
 # 1
-prints 
-thoughts on the field of computing 
+ 
+THOUGHTS ON THE FIELD OF COMPUTING  
 a very instering field, with technical elements that can be a struggle to get a grasp of. 
 **numbers.symbols.abreveations.dots.codes**
 relating computinig to design is talke dabput as the future by some 
@@ -17,4 +17,12 @@ The lines.
 The shapes. 
 Visually the different electrical components isolate themselves into groups of layers and textures and I wanted to enhance that by stacking various colours over colours. 
 Like a city photographed from above, embroidered with metal soldering to bind wires and the silk layer with the copper layers. 
+
+[IMG_5309](https://user-images.githubusercontent.com/94112887/141475739-2a2e8714-4a04-49ed-881f-04b9e16b6b3d.jpg)
+!![IMG_5257 2](https://user-images.githubusercontent.com/94112887/141476035-8b27caf8-d33b-470d-a449-06a1f2f3fc99.jpg)
+!
+These images of lino prints represent how I approached a brand new area of working. stripping it back to the basics and analysing what I can see. 
+using methods I am familiar with helped push this work forward, while still being cohesive with the new content I was learning. 
+discovering how PCBs work and are made helped me visualize what I wanted to do with my prints. 
+layering each print over each other to mimic how the layers on the pcb from the kit we received on monday. starting with fibreglass and copper layers sandwiched together with an etched with photoresist and acid reductions, to create the pathways that carry information and instructions across the board. 
 
